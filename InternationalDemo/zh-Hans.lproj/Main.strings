@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "8QN-aB-8OB"; */
+"8QN-aB-8OB.text" = "简体中文";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9gs-f3-sAG"; */
+"9gs-f3-sAG.title" = "我的";
+
+/* Class = "UITableViewController"; title = "多语言"; ObjectID = "Exd-38-Wei"; */
+"Exd-38-Wei.title" = "多语言";
+
+/* Class = "UIButton"; normalTitle = "设置"; ObjectID = "JCI-MG-wee"; */
+"JCI-MG-wee.normalTitle" = "设置";
+
+/* Class = "UILabel"; text = "跟随手机系统"; ObjectID = "JVW-qP-bGH"; */
+"JVW-qP-bGH.text" = "跟随手机系统";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "JxJ-r7-eAD"; */
+"JxJ-r7-eAD.text" = "English";
+
+/* Class = "UINavigationItem"; title = "多语言"; ObjectID = "Tw8-C4-P3v"; */
+"Tw8-C4-P3v.title" = "多语言";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "UK9-dg-5A7"; */
+"UK9-dg-5A7.title" = "首页";
+
+/* Class = "UILabel"; text = "此内容在代码中动态修改。"; ObjectID = "bKg-jQ-YXX"; */
+"bKg-jQ-YXX.text" = "此内容在代码中动态修改。";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "vEF-B4-nif"; */
+"vEF-B4-nif.title" = "发现";
